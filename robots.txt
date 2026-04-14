@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://concept.hfprojects.art/sitemap.xml
